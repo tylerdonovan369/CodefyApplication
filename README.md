@@ -1,5 +1,5 @@
 # CodefyApplication
-In this repository, there are programs detailing competency in the concepts of Arrays, 2D Arrays, ArrayLists, Recursion, and Inheritance
+In this repository, there are programs detailing competency in the concepts of Arrays, 2D Arrays, ArrayLists, Recursion, and Inheritance.
 
 Arrays: Found in ArrayOps.java
 2D Arrays: Found in MatrixArrayFun.java
